@@ -12,4 +12,4 @@ I have decided to be an export person in DL. I want to use DL to help people tha
 
 <a href="https://ibb.co/DkjhHTN"><img src="https://i.ibb.co/3WP29Qw/me.png" alt="me" width=140 border="0"></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linkedin: [www.linkedin.com/in/negar-asgari-3b0bba109](www.linkedin.com/in/negar-asgari-3b0bba109)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linkedin: [www.linkedin.com/in/negar-asgari-3b0bba109]([www.linkedin.com/in/negar-asgari-3b0bba109](https://www.linkedin.com/in/negar-asgari-3b0bba109/))
