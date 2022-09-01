@@ -7,7 +7,7 @@ Currently, I am learning Python, Deep Learning, and AI in Medicine from Coursera
 
 I have decided to be an export person in DL. I want to use DL to help people that have a good and easy life.
 
-####stay in touch
+
 
 
 <a href="https://ibb.co/DkjhHTN"><img src="https://i.ibb.co/3WP29Qw/me.png" alt="me" width=140 border="0"></a>
