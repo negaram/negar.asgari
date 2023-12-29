@@ -1,4 +1,4 @@
-Hi! I'm **Negar Asgari**. I'm from [Tehran](https://en.wikipedia.org/wiki/Tehran) . I was born in Shahriyar and grew up in Marlik and Andishe. I have a bachelor's degree in Computer Engineering. I'm currently a master's student in Computer Engineering. I am doing my thesis that is about using CNN in Numerical Dataset. I want to figure out whether is CNN good for a dataset with many features and many records or not.
+Hi! I'm **Negar Asgari**. I'm from [Tehran](https://en.wikipedia.org/wiki/Tehran) .  I have a bachelor's degree in Computer Engineering. I'm currently a master's student in Computer Engineering. I am doing my thesis that is about using CNN in Numerical Dataset. I want to figure out whether is CNN good for a dataset with many features and many records or not.
 
 
 When I was a bachelor's student, I didn't know what I want to do. I started to learn Android Programming, but I understood it was not for me.  After two or three years, I have been familiar with Machine Learning, and I said to myself  "Yes, it is for me. I like Machine Learning and Deep Learning. In the future, I want to be a Deep Learning Engineer."
